@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Domenico Tagliente]]></title>
         <description><![CDATA[Domenico Tagliente]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/domenico-tagliente/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 04 Mar 2016 23:02:04 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 04 Mar 2016 23:13:10 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/domenico-tagliente/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[BIO]]></title>
+            <description><![CDATA[<article><h1>BIO</h1><p>Domenico Tagliente appears frequently at major national and international organ festivals and conventions; has played many recitals throughout Italy, Germany, Austria, France, Switzerland, Sweden, Monaco, Spain. Concert appearances have included Bachfest Leipzig , Salzburg Organ Festival, Festival d’Avignon, Vienna Organ Concerts, Santa Maria del Fiore Florence, Musikfestspiele Saarbrücken, Vilnius Festival, Riga Festival… He is well-known for his organ- improvisations on many silent film, like “The Phantom of the opera” of Rupert Julian, or “Christus” of Giulio Antamoro, he also improvises with organ and live electronics in several festivals for Contemporary Music. During the celebration of the Day of German Unity (9th October, Lichtfest) he was invited to play from the Berlin Parliament in front of 40.000 people. He studied Organ and Composition in Vienna and Rome. He received the Master’s degree and Artist Diploma from the Vienna “University of Music” Austria (H. Haselböck, A. Mitterhofer). He also earned his Master of Musicology with Honors. He is Professor of Organ and Composition at “Nino Rota” Conservatory (Italy) and visiting Professor at Vienna University of Music (2007 and 2008). In addition he gives numerous Master classes (University of Weimar, London, Poznan, Riga, Vilnius) and conferences on Italian Music (G. Frescobaldi, baroque Italian organ repertoire in Naples, Roma and Baroque Music). He is also member of International Competition (Leipzig Improvisation Competition, Čiurlionis Piano and Organ Competition Vilnius...)</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f448baede9d3b1926ab65392030fee0bafcbfc3d.jpg"></article>]]></description>
+            <link>https://thegrid.ai/domenico-tagliente/bio/index.html</link>
+            <guid isPermaLink="false">7ceb6f7d-4a9d-45e0-8923-2a7f8231b205</guid>
+            <pubDate>Fri, 04 Mar 2016 23:12:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/296f3547-5496-4364-9ee2-4e423132a3cd.jpg">]]></description>
-            <link>undefinede762e80c-ff51-446d-bf3c-8b18fc752f13/index.html</link>
+            <link>https://thegrid.ai/domenico-tagliente/e762e80c-ff51-446d-bf3c-8b18fc752f13/index.html</link>
             <guid isPermaLink="false">e762e80c-ff51-446d-bf3c-8b18fc752f13</guid>
             <pubDate>Fri, 04 Mar 2016 23:02:03 GMT</pubDate>
         </item>
