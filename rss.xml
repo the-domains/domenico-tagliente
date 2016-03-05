@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Domenico Tagliente]]></title>
-        <description><![CDATA[Domenico Tagliente]]></description>
+        <title><![CDATA[THE WAVE AND THE DEVICE]]></title>
+        <description><![CDATA[THE WAVE AND THE DEVICE]]></description>
         <link>https://thegrid.ai/domenico-tagliente/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 05 Mar 2016 11:37:46 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Mar 2016 16:15:00 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/domenico-tagliente/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -19,6 +19,13 @@
             <link>https://thegrid.ai/domenico-tagliente/bio/index.html</link>
             <guid isPermaLink="false">7ceb6f7d-4a9d-45e0-8923-2a7f8231b205</guid>
             <pubDate>Fri, 04 Mar 2016 23:12:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[the path ]]></title>
+            <description><![CDATA[<article><h1>the path </h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/13ed6f46-d9fd-4a23-8338-ebe99c517d2f.jpg"></article>]]></description>
+            <link>https://thegrid.ai/domenico-tagliente/the-path/index.html</link>
+            <guid isPermaLink="false">68140fe4-167c-4687-a012-d2353cc55ca3</guid>
+            <pubDate>Sat, 05 Mar 2016 16:14:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[FAUST LIVE IMPRO FOR ORGAN]]></title>
