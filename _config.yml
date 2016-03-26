@@ -1,7 +1,7 @@
 name: Domenico Tagliente
 favicon: null
-layout_spectrum: 0.09558
-typography_spectrum: 0.94727
+layout_spectrum: 0.50791
+typography_spectrum: 0.26097
 title: THE WAVE AND THE DEVICE
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#5b6463'
     - '#79a0d7'
     - '#e1cc95'
-  brandStrength: 0
+  brandStrength: 0.5
   lightness: 1
   saturation: 1
   rhythmicContrast: 0
